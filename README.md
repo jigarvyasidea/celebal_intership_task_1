@@ -1,6 +1,7 @@
 # Celebal Task 1 - LeetCode Questions Solved
 
 ![LeetCode Logo](https://leetcode.com/static/images/LeetCode_logo.png)
+![th](https://github.com/jigarvyasidea/celebal_intership_task_1/assets/80967728/f3b1c16f-0bcc-4d1e-b825-b281cc5257a9)
 
 This repository contains solutions to 30 LeetCode questions as part of Celebal Task 1. LeetCode is a platform that provides a collection of coding interview questions, and solving these questions can help improve your coding and problem-solving skills.
 
