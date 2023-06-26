@@ -1,4 +1,4 @@
-# Celebal Task 1 - LeetCode Questions Solved
+# Celebal Task 1 - LeetCode Questions Solved .
 
 ![LeetCode Logo](https://leetcode.com/static/images/LeetCode_logo.png)
 ![th](https://github.com/jigarvyasidea/celebal_intership_task_1/assets/80967728/f3b1c16f-0bcc-4d1e-b825-b281cc5257a9)
